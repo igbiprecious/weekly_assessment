@@ -68,6 +68,7 @@ fun main(){
 //    QUESTION 3
     var k = 10
     while( k <= 30 ){
+
         if( k <= 20){
             if( k % 2 == 0){
                 println(k)
